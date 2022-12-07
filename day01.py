@@ -1,5 +1,3 @@
-from time import time
-
 with open(__file__.replace(".py", "_data")) as f:
     data = f.read()
 
